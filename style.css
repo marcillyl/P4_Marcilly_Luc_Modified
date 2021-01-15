@@ -332,11 +332,6 @@ a:hover {
     text-align: inherit;
 }
 
-.nav > li a:hover,
-.nav > li a:focus {
-    background: transparent;
-}
-
 .navbar-toggle {
     margin: 10px 10px 0 0;
     border: 0px;
@@ -677,7 +672,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
@@ -775,7 +770,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #ffffff!important;
 }
 
 .btn-atomic-tangerine {
